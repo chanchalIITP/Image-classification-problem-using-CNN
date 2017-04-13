@@ -1,0 +1,2 @@
+# Image-classification-problem-using-CNN
+This is my m.tech mini project of 2nd semester , and i have done image classification of CIFAR-10 dataset using convolution neural network.
