@@ -1,0 +1,4 @@
+just run the image100.py model, It will import CIFAR-10 dataset from the keras automatically , and train the model on datasets , after training it will test on test data and give the accuracy as 72.50 % on test data. 
+  
+you can just run the json image load model.py to check the model.
+there are so many models , you can just change the model names and get the scores.  
