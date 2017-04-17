@@ -1,0 +1,8 @@
+20 - tanh - 67.77%
+30 - relu -  71.38%
+35 - relu -  71.14%
+20 - sigmoid - 30.97 
+20 - relu -   71.16%
+30 - RELU - DROPOUT - 0.1 - 66.11%
+100 - RELU - DROPOUT - 0.2 - 72.50 %
+
